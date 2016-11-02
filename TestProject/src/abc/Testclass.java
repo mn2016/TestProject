@@ -4,7 +4,7 @@ public class Testclass {
 	
 	public static void main(String[] args) {
 		
-		System.out.println("v1:master");
+		System.out.println("v1.1:master");
 	}
 
 }
